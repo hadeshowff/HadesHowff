@@ -27,9 +27,7 @@ I like to read about almost anything, aspire to open-ended conversations and tin
     <td>
       <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="programmer with fire" >
     </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=hadeshowff&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=radical" alt="Siddharth's stats" >
-    </td>
+    
    </tr>
   <td>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadeshowff&layout=compact&exclude_repo=image-captioning"
